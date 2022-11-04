@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @cd-Crypton
-- 📫 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L23X7F6)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L23X7F6)
 
 <!---
 cd-Crypton/cd-Crypton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
